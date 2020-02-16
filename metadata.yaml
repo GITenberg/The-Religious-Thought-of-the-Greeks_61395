@@ -1,5 +1,8 @@
 _repo: The-Religious-Thought-of-the-Greeks_61395
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Moore, Clifford Herschel
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '47561'
     url: http://www.gutenberg.org/2009/agents/47561
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61395#The-Religious-Thought-of-the-Greeks
 gutenberg_issued: '2020-02-13'
 gutenberg_type: Text
 identifiers:
